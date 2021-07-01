@@ -3,5 +3,5 @@ provider "oci" {
   user_ocid        = "to-be-filled"
   fingerprint      = "to-be-filled"
   private_key_path = "to-be-filled"
-  region           = "eu-frankfurt-1"
+  region           = "eu-amsterdam-1"
 }
